@@ -1,0 +1,4 @@
+langgraph==1.2.14
+langchain-anthropic==1.7.5
+python-dotenv==1.2.4
+pytest==9.1.1
